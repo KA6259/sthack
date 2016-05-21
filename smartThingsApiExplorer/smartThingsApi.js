@@ -64,8 +64,8 @@ if (Meteor.isServer) {
     
     'getJsonForEndpoint': function (endpoint) {
       // variables 
-      var clientId = "YOUR CLIENT ID";
-      var tokenObject = "YOUR TOKEN";
+      var clientId = "3b44d34c-32bb-4fad-a38b-a97861bcc54e";
+      var tokenObject = "fe12fafb-203b-4924-8000-18d550d5f771";
       var finalResult = ""
       console.log('Method.getJsonForEndpoint for');
       // Construct the API URL
